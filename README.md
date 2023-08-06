@@ -22,6 +22,7 @@
 
 ### Use Cases
 - Switching to a different library
+- Chabging the constructor's signature
 
 ### Conferences
 
