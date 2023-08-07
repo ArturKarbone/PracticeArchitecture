@@ -42,6 +42,7 @@
 
 ### Certificates
 
+- [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 ### Podcasts
 
 
